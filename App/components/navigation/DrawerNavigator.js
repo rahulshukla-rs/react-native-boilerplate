@@ -3,7 +3,7 @@ import React from "react";
 import { createDrawerNavigator } from "@react-navigation/drawer";
 
 //import Home from "../../screens/Home";
-import TabNavigator from '../navigation/TabNavigator';
+import TabNavigator from './TabNavigator';
 import About from "../../screens/About";
 
 const Drawer = createDrawerNavigator();

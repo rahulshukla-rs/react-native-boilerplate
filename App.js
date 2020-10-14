@@ -1,8 +1,8 @@
 import * as React from 'react';
 
-import Walktrough from './screens/guest/Walkthrough';
-import GuestHome from './screens/guest/GuestHome';
-import Main from './screens/Main';
+import Walktrough from './App/screens/guest/Walkthrough';
+import GuestHome from './App/screens/guest/GuestHome';
+import Main from './App/screens/Main';
 
 const showRealApp = true; // true: walktrough complete
 const loginUser = true; // true: User loggedin
